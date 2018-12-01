@@ -24,8 +24,8 @@
   Flying line length:              20.00m
   Distance towpoint -> bar:        19.96m
   Volume leading edge:             86l
-  Volume struts:                   16l
-  Kite volume:                     103l
+  Volume struts:                   18l
+  Kite volume:                     105l
   LE bladder length:               7.80m
 
 ## Segment overview ##
@@ -254,18 +254,18 @@ Segment | diameter (mm) | width (mm) | chord (m) | canopy angle | sweep angle  |
     Seam length:               1386.3mm
  +Strut
     Segment:   1
-      Diameter:  75.0mm
+      Diameter:  79.8mm
     Segment:   2
-      Diameter:  79.0mm
+      Diameter:  84.0mm
     Segment:   3
-      Diameter:  79.0mm
+      Diameter:  84.0mm
     Segment:   4
-      Diameter:  75.0mm
+      Diameter:  79.8mm
     Segment:   5
-      Diameter:  67.2mm
+      Diameter:  71.4mm
     Segment:   6
-      Diameter:  47.4mm
-    Volume:     4.01l
+      Diameter:  50.4mm
+    Volume:     4.54l
 
 ### Segment-1 ###
     Diameter:            138.6mm
@@ -438,7 +438,7 @@ Segment | diameter (mm) | width (mm) | chord (m) | canopy angle | sweep angle  |
     Length TE:             314.2mm
     Cloth:                 0.42sqm
     CG lever Z:            647.0mm
-    Weight:                24.98g
+    Weight:                24.99g
 
     Sail panels:
       UV-Segment-4.sail.panel_0
@@ -456,16 +456,16 @@ Segment | diameter (mm) | width (mm) | chord (m) | canopy angle | sweep angle  |
     Seam length:               1253.8mm
  +Strut
     Segment:   1
-      Diameter:  69.5mm
+      Diameter:  73.9mm
     Segment:   2
-      Diameter:  71.1mm
+      Diameter:  75.6mm
     Segment:   3
-      Diameter:  69.5mm
+      Diameter:  73.9mm
     Segment:   4
-      Diameter:  63.2mm
+      Diameter:  67.2mm
     Segment:   5
-      Diameter:  47.4mm
-    Volume:     3.35l
+      Diameter:  50.4mm
+    Volume:     3.79l
 
 ### Segment-5 ###
     Diameter:            124.0mm
@@ -609,14 +609,14 @@ Segment | diameter (mm) | width (mm) | chord (m) | canopy angle | sweep angle  |
     Seam length:               1029.2mm
  +Strut
     Segment:   1
-      Diameter:  69.5mm
+      Diameter:  73.9mm
     Segment:   2
-      Diameter:  71.1mm
+      Diameter:  75.6mm
     Segment:   3
-      Diameter:  67.9mm
+      Diameter:  72.2mm
     Segment:   4
-      Diameter:  47.4mm
-    Volume:     2.76l
+      Diameter:  50.4mm
+    Volume:     3.12l
 
 ### Wingtip Segment-8 ###
     Diameter:            109.2mm
