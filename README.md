@@ -1,5 +1,5 @@
 
-# Freestyle Kite Circus 9
+# Freestyle Kite Circus 7
 
 ## Releases
 [List of all releases](https://github.com/wingworks/Circus-7/releases)
